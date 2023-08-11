@@ -1,5 +1,5 @@
 # Xenius
-A SaaS AI Platform built with Next.js 13, React, Prisma, Tailwind, Stripe, Open AI API, Replicate AI API
+A SaaS AI Platform built with Next.js 13, React, Prisma, Tailwind, Stripe, OpenAI API, Replicate AI API, Serverless MySQL Database
 
 Features:
 
